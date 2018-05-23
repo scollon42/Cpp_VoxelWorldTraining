@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="SFMLOpenglTemplae"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/scollon/projects/SFMLOpenglTemplae/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j4 -f &quot;/home/scollon/projects/SFMLOpenglTemplae/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/gmake -j4 -f &quot;/home/scollon/projects/SFMLOpenglTemplae/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j4 -f &quot;/home/scollon/projects/SFMLOpenglTemplae/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j4 -f &quot;/home/scollon/projects/SFMLOpenglTemplae/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/scollon/projects/SFMLOpenglTemplae/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j4 -f &quot;/home/scollon/projects/SFMLOpenglTemplae/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/gmake -j4 -f &quot;/home/scollon/projects/SFMLOpenglTemplae/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j4 -f &quot;/home/scollon/projects/SFMLOpenglTemplae/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j4 -f &quot;/home/scollon/projects/SFMLOpenglTemplae/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/scollon/projects/SFMLOpenglTemplae/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j4 -f &quot;/home/scollon/projects/SFMLOpenglTemplae/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/gmake -j4 -f &quot;/home/scollon/projects/SFMLOpenglTemplae/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j4 -f &quot;/home/scollon/projects/SFMLOpenglTemplae/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j4 -f &quot;/home/scollon/projects/SFMLOpenglTemplae/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="SFMLOpenglTemplae">
+				<Option output="/home/scollon/projects/SFMLOpenglTemplae/cmake-build-debug/SFMLOpenglTemplae" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/scollon/projects/SFMLOpenglTemplae/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/scollon/projects/SFMLOpenglTemplae/include"/>
+					<Add directory="/home/scollon/projects/SFMLOpenglTemplae/include/Math"/>
+					<Add directory="/home/scollon/projects/SFMLOpenglTemplae/include/Renderer"/>
+					<Add directory="/home/scollon/projects/SFMLOpenglTemplae/include/Shader"/>
+					<Add directory="/home/scollon/projects/SFMLOpenglTemplae/include/State"/>
+					<Add directory="/home/scollon/projects/SFMLOpenglTemplae/include/Texture"/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/8/../../../../include/c++/8"/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/8/../../../../include/c++/8/x86_64-redhat-linux"/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/8/../../../../include/c++/8/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/8/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j4 -f &quot;/home/scollon/projects/SFMLOpenglTemplae/cmake-build-debug/Makefile&quot;  VERBOSE=1 SFMLOpenglTemplae"/>
+					<CompileFile command="/usr/bin/gmake -j4 -f &quot;/home/scollon/projects/SFMLOpenglTemplae/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j4 -f &quot;/home/scollon/projects/SFMLOpenglTemplae/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j4 -f &quot;/home/scollon/projects/SFMLOpenglTemplae/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="SFMLOpenglTemplae/fast">
+				<Option output="/home/scollon/projects/SFMLOpenglTemplae/cmake-build-debug/SFMLOpenglTemplae" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/scollon/projects/SFMLOpenglTemplae/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/scollon/projects/SFMLOpenglTemplae/include"/>
+					<Add directory="/home/scollon/projects/SFMLOpenglTemplae/include/Math"/>
+					<Add directory="/home/scollon/projects/SFMLOpenglTemplae/include/Renderer"/>
+					<Add directory="/home/scollon/projects/SFMLOpenglTemplae/include/Shader"/>
+					<Add directory="/home/scollon/projects/SFMLOpenglTemplae/include/State"/>
+					<Add directory="/home/scollon/projects/SFMLOpenglTemplae/include/Texture"/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/8/../../../../include/c++/8"/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/8/../../../../include/c++/8/x86_64-redhat-linux"/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/8/../../../../include/c++/8/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/8/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j4 -f &quot;/home/scollon/projects/SFMLOpenglTemplae/cmake-build-debug/Makefile&quot;  VERBOSE=1 SFMLOpenglTemplae/fast"/>
+					<CompileFile command="/usr/bin/gmake -j4 -f &quot;/home/scollon/projects/SFMLOpenglTemplae/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j4 -f &quot;/home/scollon/projects/SFMLOpenglTemplae/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j4 -f &quot;/home/scollon/projects/SFMLOpenglTemplae/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/scollon/projects/SFMLOpenglTemplae/include/Application.h">
+			<Option target="SFMLOpenglTemplae"/>
+		</Unit>
+		<Unit filename="/home/scollon/projects/SFMLOpenglTemplae/include/Camera.h">
+			<Option target="SFMLOpenglTemplae"/>
+		</Unit>
+		<Unit filename="/home/scollon/projects/SFMLOpenglTemplae/include/Display.h">
+			<Option target="SFMLOpenglTemplae"/>
+		</Unit>
+		<Unit filename="/home/scollon/projects/SFMLOpenglTemplae/include/Entity.h">
+			<Option target="SFMLOpenglTemplae"/>
+		</Unit>
+		<Unit filename="/home/scollon/projects/SFMLOpenglTemplae/include/GLMCommon.h">
+			<Option target="SFMLOpenglTemplae"/>
+		</Unit>
+		<Unit filename="/home/scollon/projects/SFMLOpenglTemplae/include/Math/Matrix.h">
+			<Option target="SFMLOpenglTemplae"/>
+		</Unit>
+		<Unit filename="/home/scollon/projects/SFMLOpenglTemplae/include/Model.h">
+			<Option target="SFMLOpenglTemplae"/>
+		</Unit>
+		<Unit filename="/home/scollon/projects/SFMLOpenglTemplae/include/Quad.h">
+			<Option target="SFMLOpenglTemplae"/>
+		</Unit>
+		<Unit filename="/home/scollon/projects/SFMLOpenglTemplae/include/Renderer/Master.h">
+			<Option target="SFMLOpenglTemplae"/>
+		</Unit>
+		<Unit filename="/home/scollon/projects/SFMLOpenglTemplae/include/Renderer/SimpleRenderer.h">
+			<Option target="SFMLOpenglTemplae"/>
+		</Unit>
+		<Unit filename="/home/scollon/projects/SFMLOpenglTemplae/include/Shader/Loader.h">
+			<Option target="SFMLOpenglTemplae"/>
+		</Unit>
+		<Unit filename="/home/scollon/projects/SFMLOpenglTemplae/include/Shader/Program.h">
+			<Option target="SFMLOpenglTemplae"/>
+		</Unit>
+		<Unit filename="/home/scollon/projects/SFMLOpenglTemplae/include/Shader/SimpleShader.h">
+			<Option target="SFMLOpenglTemplae"/>
+		</Unit>
+		<Unit filename="/home/scollon/projects/SFMLOpenglTemplae/include/State/Base.h">
+			<Option target="SFMLOpenglTemplae"/>
+		</Unit>
+		<Unit filename="/home/scollon/projects/SFMLOpenglTemplae/include/State/Playing.h">
+			<Option target="SFMLOpenglTemplae"/>
+		</Unit>
+		<Unit filename="/home/scollon/projects/SFMLOpenglTemplae/include/Texture/Atlas.h">
+			<Option target="SFMLOpenglTemplae"/>
+		</Unit>
+		<Unit filename="/home/scollon/projects/SFMLOpenglTemplae/include/Texture/Basic.h">
+			<Option target="SFMLOpenglTemplae"/>
+		</Unit>
+		<Unit filename="/home/scollon/projects/SFMLOpenglTemplae/sources/Application.cpp">
+			<Option target="SFMLOpenglTemplae"/>
+		</Unit>
+		<Unit filename="/home/scollon/projects/SFMLOpenglTemplae/sources/Camera.cpp">
+			<Option target="SFMLOpenglTemplae"/>
+		</Unit>
+		<Unit filename="/home/scollon/projects/SFMLOpenglTemplae/sources/Display.cpp">
+			<Option target="SFMLOpenglTemplae"/>
+		</Unit>
+		<Unit filename="/home/scollon/projects/SFMLOpenglTemplae/sources/Math/Matrix.cpp">
+			<Option target="SFMLOpenglTemplae"/>
+		</Unit>
+		<Unit filename="/home/scollon/projects/SFMLOpenglTemplae/sources/Model.cpp">
+			<Option target="SFMLOpenglTemplae"/>
+		</Unit>
+		<Unit filename="/home/scollon/projects/SFMLOpenglTemplae/sources/Quad.cpp">
+			<Option target="SFMLOpenglTemplae"/>
+		</Unit>
+		<Unit filename="/home/scollon/projects/SFMLOpenglTemplae/sources/Renderer/Master.cpp">
+			<Option target="SFMLOpenglTemplae"/>
+		</Unit>
+		<Unit filename="/home/scollon/projects/SFMLOpenglTemplae/sources/Renderer/SimpleRenderer.cpp">
+			<Option target="SFMLOpenglTemplae"/>
+		</Unit>
+		<Unit filename="/home/scollon/projects/SFMLOpenglTemplae/sources/Shader/Loader.cpp">
+			<Option target="SFMLOpenglTemplae"/>
+		</Unit>
+		<Unit filename="/home/scollon/projects/SFMLOpenglTemplae/sources/Shader/Program.cpp">
+			<Option target="SFMLOpenglTemplae"/>
+		</Unit>
+		<Unit filename="/home/scollon/projects/SFMLOpenglTemplae/sources/Shader/SimpleShader.cpp">
+			<Option target="SFMLOpenglTemplae"/>
+		</Unit>
+		<Unit filename="/home/scollon/projects/SFMLOpenglTemplae/sources/State/Base.cpp">
+			<Option target="SFMLOpenglTemplae"/>
+		</Unit>
+		<Unit filename="/home/scollon/projects/SFMLOpenglTemplae/sources/State/Playing.cpp">
+			<Option target="SFMLOpenglTemplae"/>
+		</Unit>
+		<Unit filename="/home/scollon/projects/SFMLOpenglTemplae/sources/Texture/Atlas.cpp">
+			<Option target="SFMLOpenglTemplae"/>
+		</Unit>
+		<Unit filename="/home/scollon/projects/SFMLOpenglTemplae/sources/Texture/Basic.cpp">
+			<Option target="SFMLOpenglTemplae"/>
+		</Unit>
+		<Unit filename="/home/scollon/projects/SFMLOpenglTemplae/sources/main.cpp">
+			<Option target="SFMLOpenglTemplae"/>
+		</Unit>
+		<Unit filename="/home/scollon/projects/SFMLOpenglTemplae/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
